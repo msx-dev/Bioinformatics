@@ -1,4 +1,4 @@
-## Bioinformatics :microscope: :dna:
+## Bioinformatics :dna:
 # All sorts of small helpful Python algorithms and functions for Bioinformatics.
 
 A collection of multiple Jupyter Notebooks, containing functions for use in the field of bioinformatics. Mostly they are derivatives of BioPython library, but some might find some of these functions quite useful.
